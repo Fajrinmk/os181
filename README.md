@@ -10,3 +10,5 @@ ZCZC W03 demo 3 done
 ZCZC W04 week 4 demos done
 
 ZCZC W05 week 5 demos done
+
+ZCZC W06 week 6 demos done
